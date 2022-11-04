@@ -19,24 +19,28 @@ Each red, green, and blue value is a number from 0 to 255.
 - 255 means that there's 100% of that color.
 
 In the additive RGB color model, _primary colors_ are colors that, when combined, create pure white. But for this to happen, each color needs to be at its highest intensity.
+
 ![ColorMarkers](https://user-images.githubusercontent.com/77103357/199969151-3d722498-2b91-4b3d-b433-3fe9aa4aff0d.png)
 1. RED rgb(255, 0, 0)
 1. GREEN rgb(0, 255, 0)
 1. BLUE rgb(0, 0, 255)
 
 _Secondary colors_ are the colors you get when you combine primary colors. 
+
 ![secondary colors](https://user-images.githubusercontent.com/77103357/199969237-c93d8c1e-8897-4a05-8e0e-2c7c79a409f0.png)
 1. YELLOW rgb(255, 255, 0)
 1. CYAN rgb(0, 255, 255)
 1. MAGENTA rgb(255, 0, 255)
 
 _Tertiary colors_ are created by combining a primary with a nearby secondary color.
+
 ![Tertiary colors1](https://user-images.githubusercontent.com/77103357/199969494-8c3dec11-ed79-4af1-ab58-82f9167ac1ee.png)
 1. ORANGE rgb(255, 127, 0)
 1. SPRING GREEN rgb(0, 255, 127)
 1. VIOLET rgb(127, 0, 255)
 
 There are three more tertiary colors: chartreuse green (green + yellow), azure (blue + cyan), and rose (red + magenta). 
+
 ![tertiary colors2](https://user-images.githubusercontent.com/77103357/199969572-fe2aec60-fdfd-4c1c-bfe1-8f7cd8e8e6c3.png)
 1. CHARTREUSE GREEN rgb(127, 255, 0)
 1. AZURE rgb(0, 127, 255)
